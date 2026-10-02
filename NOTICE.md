@@ -12,6 +12,12 @@ License: Public domain
 
 Santa Biblia, Reina Valera 1909. Translation by Reina y Valera. Public Domain (Dominio Público). Text from eBible.org. Eighteen verses that the eBible file leaves out were restored from the Wikisource edition of the Reina Valera 1909.
 
+## Reina Valera Gómez (RVG), language es
+File: `rvg.deflate`, 1,257,691 bytes, SHA-256 `337de5eb045972330d5d20986175842248ce4413ca6a575035021e274e02e01f`
+License: Copyright, used with the translator's permission
+
+Santa Biblia Reina Valera Gómez. Copyright © 2004, 2010, 2023 Dr. Humberto Gómez Caballero, Iglesia Bautista Libertad de Matamoros. Rights reserved. Included in this app with Dr. Gómez's kind permission. It may be shared free of charge as long as no written word is changed and it is not used for profit. Text from eBible.org, converted to this app's format.
+
 ## Louis Segond 1910 (LSG), language fr
 File: `lsg1910.deflate`, 1,307,882 bytes, SHA-256 `b1c384b292373e8a29ff2e09b201f55ad3208953965b08305bbfcd578b7463da`
 License: Public domain
